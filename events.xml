@@ -4,6 +4,8 @@
     <title>Cat's Cradle Events</title>
     <link>https://catscradle.com/events/</link>
     <description>Upcoming events at Cat's Cradle music venues</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Dec 2025 01:59:54 GMT</lastBuildDate>
     <item>
       <title>Josh Ritter (Saturday, January 31 - Doors: 7 pm : Show: 8 pm)</title>
       <link>https://catscradle.com/event/josh-ritter-2/haw-river-ballroom/saxapahaw-north-carolina/</link>
@@ -821,19 +823,12 @@
       <enclosure url="https://catscradle.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg"/>
     </item>
     <item>
-            
       <title>Josh Ritter (Friday, January 30 - Doors: 7 pm : Show: 8 pm)</title>
-            
       <link>https://catscradle.com/event/josh-ritter/haw-river-ballroom/saxapahaw-north-carolina/</link>
-            
       <guid>https://catscradle.com/event/josh-ritter/haw-river-ballroom/saxapahaw-north-carolina/</guid>
-            
       <description><![CDATA[Cat's Cradle Presents<br/><br/>Friday, January 30 - Doors: 7 pm : Show: 8 pm<br/>Haw River Ballroom]]></description>
-            
       <pubDate>Tue, 23 Dec 2025 17:36:45 -0500</pubDate>
-            
       <enclosure url="https://catscradle.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg"/>
-          
     </item>
   </channel>
 </rss>
