@@ -5,7 +5,23 @@
     <link>https://catscradle.com/events/</link>
     <description>Upcoming events at Cat's Cradle music venues</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Jan 2026 14:15:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 19:15:19 GMT</lastBuildDate>
+    <item>
+      <title>Delicate Steve (Sunday, April 19 - Doors: 7 pm : Show: 8 pm)</title>
+      <link>https://catscradle.com/event/delicate-steve/cats-cradle-back-room/carrboro-north-carolina/</link>
+      <guid>https://catscradle.com/event/delicate-steve/cats-cradle-back-room/carrboro-north-carolina/</guid>
+      <description><![CDATA[Sunday, April 19 - Doors: 7 pm : Show: 8 pm<br/>Cat’s Cradle Back Room]]></description>
+      <pubDate>Tue, 13 Jan 2026 19:15:17 +0000</pubDate>
+      <enclosure url="https://catscradle.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg"/>
+    </item>
+    <item>
+      <title>The Beths (Thursday, June 18 - Doors: 7 pm : Show: 8 pm)</title>
+      <link>https://catscradle.com/event/the-beths-2/cats-cradle/carrboro-north-carolina/</link>
+      <guid>https://catscradle.com/event/the-beths-2/cats-cradle/carrboro-north-carolina/</guid>
+      <description><![CDATA[Thursday, June 18 - Doors: 7 pm : Show: 8 pm<br/>Cat’s Cradle]]></description>
+      <pubDate>Tue, 13 Jan 2026 19:15:19 +0000</pubDate>
+      <enclosure url="https://catscradle.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg"/>
+    </item>
     <item>
       <title>Vundabar – ‘Gawk’ 10 Year Anniversary Tour (Wednesday, June 10 - Doors: 7 pm : Show: 8 pm)</title>
       <link>https://catscradle.com/event/vundabar-gawk-10-year-anniversary-tour/motorco-music-hall/durham-north-carolina/</link>
@@ -892,14 +908,6 @@
       <guid>https://catscradle.com/event/26th-annual-bob-marley-bash/cats-cradle/carrboro-north-carolina/</guid>
       <description><![CDATA[Mickey Mills & Steel, Zion Project<br/><br/>Saturday, February 14 - Doors: 8 pm : Show: 8:30 pm<br/>Cat’s Cradle]]></description>
       <pubDate>Wed, 07 Jan 2026 11:15:18 +0000</pubDate>
-      <enclosure url="https://catscradle.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg"/>
-    </item>
-    <item>
-      <title>Candi Jenkins (Sunday, February 01 - Doors: 7 pm : Show: 8 pm)</title>
-      <link>https://catscradle.com/event/candi-jenkins/cats-cradle-back-room/carrboro-north-carolina/</link>
-      <guid>https://catscradle.com/event/candi-jenkins/cats-cradle-back-room/carrboro-north-carolina/</guid>
-      <description><![CDATA[Sunday, February 01 - Doors: 7 pm : Show: 8 pm<br/>Cat’s Cradle Back Room]]></description>
-      <pubDate>Tue, 06 Jan 2026 19:15:16 +0000</pubDate>
       <enclosure url="https://catscradle.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg"/>
     </item>
   </channel>
