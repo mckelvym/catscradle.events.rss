@@ -5,7 +5,15 @@
     <link>https://catscradle.com/events/</link>
     <description>Upcoming events at Cat's Cradle music venues</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 2 Feb 2026 19:15:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 2 Feb 2026 22:15:26 GMT</lastBuildDate>
+    <item>
+      <title>Sluice (Friday, May 22 - Doors: 7 pm : Show: 8 pm)</title>
+      <link>https://catscradle.com/event/sluice/cats-cradle-back-room/carrboro-north-carolina/</link>
+      <guid>https://catscradle.com/event/sluice/cats-cradle-back-room/carrboro-north-carolina/</guid>
+      <description><![CDATA[Peter Horses<br/><br/>Friday, May 22 - Doors: 7 pm : Show: 8 pm<br/>Cat’s Cradle Back Room]]></description>
+      <pubDate>Mon, 02 Feb 2026 22:15:26 +0000</pubDate>
+      <enclosure url="https://catscradle.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg"/>
+    </item>
     <item>
       <title>Hiding Places (Thursday, May 21 - Doors: 7 pm : Show: 8 pm)</title>
       <link>https://catscradle.com/event/hiding-places/cats-cradle-back-room/carrboro-north-carolina/</link>
@@ -1036,14 +1044,6 @@
       <guid>https://catscradle.com/event/diggy-graves-the-no-vacancy-tour/cats-cradle/carrboro-north-carolina/</guid>
       <description><![CDATA[Resentvul, Ryan Oakes<br/><br/>Friday, August 07 - Doors: 7 pm : Show: 7:30 pm<br/>Cat’s Cradle]]></description>
       <pubDate>Tue, 27 Jan 2026 14:15:25 +0000</pubDate>
-      <enclosure url="https://catscradle.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg"/>
-    </item>
-    <item>
-      <title>Florence Dore (Thursday, May 07 - Doors: 7 pm : Show: 8 pm)</title>
-      <link>https://catscradle.com/event/florence-dore/cats-cradle-back-room/carrboro-north-carolina/</link>
-      <guid>https://catscradle.com/event/florence-dore/cats-cradle-back-room/carrboro-north-carolina/</guid>
-      <description><![CDATA[Davie Circle, Juniper<br/><br/>Thursday, May 07 - Doors: 7 pm : Show: 8 pm<br/>Cat’s Cradle Back Room]]></description>
-      <pubDate>Mon, 26 Jan 2026 22:15:18 +0000</pubDate>
       <enclosure url="https://catscradle.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg"/>
     </item>
   </channel>
