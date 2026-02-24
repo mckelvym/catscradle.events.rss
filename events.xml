@@ -5,7 +5,23 @@
     <link>https://catscradle.com/events/</link>
     <description>Upcoming events at Cat's Cradle music venues</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Feb 2026 11:15:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 14:15:15 GMT</lastBuildDate>
+    <item>
+      <title>Hiding Places (Thursday, May 21 - Doors: 7 pm : Show: 8 pm)</title>
+      <link>https://catscradle.com/event/hiding-places/cats-cradle-back-room/carrboro-north-carolina/</link>
+      <guid>https://catscradle.com/event/hiding-places/cats-cradle-back-room/carrboro-north-carolina/</guid>
+      <description><![CDATA[Verity Den, Supermutt<br/><br/>Thursday, May 21 - Doors: 7 pm : Show: 8 pm<br/>Cat’s Cradle Back Room]]></description>
+      <pubDate>Tue, 24 Feb 2026 14:15:14 +0000</pubDate>
+      <enclosure url="https://catscradle.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg"/>
+    </item>
+    <item>
+      <title>Carrboro Bluegrass Festival (Saturday, May 23 - Doors: 2 pm : Show: 3 pm)</title>
+      <link>https://catscradle.com/event/carrboro-bluegrass-festival-2/cats-cradle-back-yard/carrboro-north-carolina/</link>
+      <guid>https://catscradle.com/event/carrboro-bluegrass-festival-2/cats-cradle-back-yard/carrboro-north-carolina/</guid>
+      <description><![CDATA[Saturday, May 23 - Doors: 2 pm : Show: 3 pm<br/>Cat’s Cradle Back Yard]]></description>
+      <pubDate>Tue, 24 Feb 2026 14:15:15 +0000</pubDate>
+      <enclosure url="https://catscradle.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg"/>
+    </item>
     <item>
       <title>Voyage Hot Club, ft. Sam Farthing &amp; Paulus Schaefer (Friday, March 20 - Doors: 7 pm : Show: 8 pm)</title>
       <link>https://catscradle.com/event/voyage-hot-club-ft-sam-farthing-paulus-schaefer/cats-cradle-back-room/carrboro-north-carolina/</link>
@@ -932,14 +948,6 @@
       <guid>https://catscradle.com/event/yasmin-williams/cats-cradle-back-room/carrboro-north-carolina/</guid>
       <description><![CDATA[Seated Show<br/><br/>Saturday, May 30 - Doors: 7 pm : Show: 8 pm<br/>Cat’s Cradle Back Room]]></description>
       <pubDate>Tue, 17 Feb 2026 19:15:18 +0000</pubDate>
-      <enclosure url="https://catscradle.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg"/>
-    </item>
-    <item>
-      <title>Sluice (Friday, May 22 - Doors: 7 pm : Show: 8 pm)</title>
-      <link>https://catscradle.com/event/sluice/cats-cradle-back-room/carrboro-north-carolina/</link>
-      <guid>https://catscradle.com/event/sluice/cats-cradle-back-room/carrboro-north-carolina/</guid>
-      <description><![CDATA[Peter Horses<br/><br/>Friday, May 22 - Doors: 7 pm : Show: 8 pm<br/>Cat’s Cradle Back Room]]></description>
-      <pubDate>Tue, 17 Feb 2026 14:15:15 +0000</pubDate>
       <enclosure url="https://catscradle.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg"/>
     </item>
   </channel>
