@@ -5,7 +5,15 @@
     <link>https://catscradle.com/events/</link>
     <description>Upcoming events at Cat's Cradle music venues</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Mar 2026 18:15:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 21:15:13 GMT</lastBuildDate>
+    <item>
+      <title>Ritt Momney (Friday, April 24 - Doors: 7 pm : Show: 8 pm)</title>
+      <link>https://catscradle.com/event/ritt-momney/local-506/chapel-hill-north-carolina/</link>
+      <guid>https://catscradle.com/event/ritt-momney/local-506/chapel-hill-north-carolina/</guid>
+      <description><![CDATA[Cat's Cradle Presents<br/><br/>Friday, April 24 - Doors: 7 pm : Show: 8 pm<br/>Local 506<br/><br/>Base]]></description>
+      <pubDate>Thu, 26 Mar 2026 21:15:13 +0000</pubDate>
+      <enclosure url="https://catscradle.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg"/>
+    </item>
     <item>
       <title>Squirrel Nut Zippers (Saturday, June 20 - Doors: 7 pm : Show: 8 pm)</title>
       <link>https://catscradle.com/event/squirrel-nut-zippers/haw-river-ballroom/saxapahaw-north-carolina/</link>
@@ -964,14 +972,6 @@
       <guid>https://catscradle.com/event/diggy-graves-the-no-vacancy-tour/cats-cradle/carrboro-north-carolina/</guid>
       <description><![CDATA[Resentvul, Ryan Oakes<br/><br/>Friday, August 07 - Doors: 7 pm : Show: 7:30 pm<br/>Cat’s Cradle]]></description>
       <pubDate>Thu, 19 Mar 2026 23:15:23 +0000</pubDate>
-      <enclosure url="https://catscradle.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg"/>
-    </item>
-    <item>
-      <title>Violin Workshop (Saturday, March 21 - Doors: 10:30 am : Show: 11 am)</title>
-      <link>https://catscradle.com/event/violin-workshop/cats-cradle-back-room/carrboro-north-carolina/</link>
-      <guid>https://catscradle.com/event/violin-workshop/cats-cradle-back-room/carrboro-north-carolina/</guid>
-      <description><![CDATA[Carrboro Django Reinhardt Festival<br/><br/>Saturday, March 21 - Doors: 10:30 am : Show: 11 am<br/>Cat’s Cradle Back Room]]></description>
-      <pubDate>Thu, 19 Mar 2026 21:15:12 +0000</pubDate>
       <enclosure url="https://catscradle.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg"/>
     </item>
   </channel>
